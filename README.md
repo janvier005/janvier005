@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @janvier005
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Drupal 9and CSS 3
+- 🌱 I’m currently learning Drupal 9 and CSS 3
 - 💞️ I’m looking to collaborate on PHP projects
 - 📫 You can reach me on my Malt profile : https://www.malt.fr/profile/simonjanvier
